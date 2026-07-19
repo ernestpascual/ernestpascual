@@ -7,14 +7,6 @@
   I make technology do creative things, then document why it broke.
 </p>
 
-<p>
-  Building <strong>TOTS</strong>
-  &nbsp;·&nbsp;
-  Publishing <strong>EEP Labs</strong>
-  &nbsp;·&nbsp;
-  Making talks behave less like PDFs
-</p>
-
 <br />
 
 <p><strong>Languages</strong></p>
