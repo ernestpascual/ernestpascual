@@ -7,27 +7,11 @@
   I turn emerging technology into experiments, experiences, and working systems.
 </p>
 
-<p>
-  Building <a href="https://tots-coral.vercel.app"><strong>TOTS</strong></a>
-  &nbsp;·&nbsp;
-  Publishing <a href="https://instagram.com/eeplabs"><strong>EEP Labs</strong></a>
-  &nbsp;·&nbsp;
-  Making talks behave less like PDFs
-</p>
 
 <p>
   <sub>I open DevTools whenever someone calls technology “magic.”</sub>
 </p>
 
-<p>
-  <a href="https://ernestpascual.com">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://talks.ernestpascual.com/talks/raw-school-2026/">Talks</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/ernestpascual">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:hey@ernestpascual.com">Email</a>
-</p>
 
 <br />
 
