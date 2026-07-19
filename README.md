@@ -115,11 +115,6 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openai/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/openai/000000" alt="OpenAI" title="OpenAI" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tensorflow/FFFFFF" />
     <img src="https://cdn.simpleicons.org/tensorflow/000000" alt="TensorFlow" title="TensorFlow" height="28" />
   </picture>
@@ -161,11 +156,6 @@
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/adobephotoshop/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/adobephotoshop/000000" alt="Adobe Photoshop" title="Adobe Photoshop" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/arduino/FFFFFF" />
     <img src="https://cdn.simpleicons.org/arduino/000000" alt="Arduino" title="Arduino" height="28" />
   </picture>
@@ -199,11 +189,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nginx/FFFFFF" />
     <img src="https://cdn.simpleicons.org/nginx/000000" alt="Nginx" title="Nginx" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/heroku/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/heroku/000000" alt="Heroku" title="Heroku" height="28" />
   </picture>
   &nbsp;&nbsp;
   <picture>
@@ -260,11 +245,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mariadb/FFFFFF" />
     <img src="https://cdn.simpleicons.org/mariadb/000000" alt="MariaDB" title="MariaDB" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/microsoftsqlserver/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/microsoftsqlserver/000000" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="28" />
   </picture>
   &nbsp;&nbsp;
   <picture>
