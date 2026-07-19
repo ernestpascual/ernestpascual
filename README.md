@@ -56,7 +56,6 @@
       height="28"
     />
   </picture>
-  &nbsp;&nbsp;
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
