@@ -59,11 +59,6 @@
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/react/000000" alt="React Native" title="React Native" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
     <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" title="Next.js" height="28" />
   </picture>
