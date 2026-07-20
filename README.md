@@ -162,11 +162,6 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonwebservices/FFFFFF" />
-    <img src="https://cdn.simpleicons.org/amazonwebservices/000000" alt="AWS" title="AWS" height="28" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlecloud/FFFFFF" />
     <img src="https://cdn.simpleicons.org/googlecloud/000000" alt="Google Cloud" title="Google Cloud" height="28" />
   </picture>
